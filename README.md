@@ -1,4 +1,5 @@
-(https://www.canva.com/design/DAFs2bVHgDA/watch)
+![Looping GIF](http://deepak.host20.uk/gif.gif)
+
 
 <h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
