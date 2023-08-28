@@ -1,3 +1,8 @@
+
+
+
+
+
 # 💫 About Me:
 👋 Hi there! I'm a passionate and versatile full stack developer with a comprehensive skill set that spans the entire web development spectrum. From crafting pixel-perfect HTML and CSS designs to building dynamic and interactive user interfaces using React and its ecosystem, I thrive in creating seamless online experiences.<br><br>Equipped with a deep understanding of front-end technologies like JavaScript, Bootstrap, and Redux Toolkit, I bring ideas to life with responsive layouts and engaging UI elements. On the back end, I wield the power of Node.js and Express to develop robust APIs, and I'm equally at home with databases such as MySQL and MongoDB for efficient data management.
 
@@ -11,9 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=codewithdeepak-in&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithdeepak-in&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdeepak-in&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=codewithdeepak-in&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codewithdeepak-in&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
