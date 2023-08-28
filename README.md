@@ -23,7 +23,7 @@
 <div style="float: left; width: 50%;">
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewithdeepak-in&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithdeepak-in&theme=dark&hide_border=true)
   
 </div>
 <div style="float: right; width: 50%;">
