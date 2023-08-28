@@ -1,4 +1,4 @@
-<img href="http://deepak.host20.uk/serv.jpg" />
+<img src="http://deepak.host20.uk/serv.jpg" />
 
 <h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
