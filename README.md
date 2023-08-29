@@ -1,16 +1,10 @@
 
 
-![Looping GIF](http://deepak.host20.uk/gf.gif)
+![Looping GIF](http://deepak.host20.uk/res.gif)
 
 
 <h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithdeepak-in&label=Profile%20views&color=0e75b6&style=flat" alt="codewithdeepak-in" /> </p>
-
-# 💫 About Me:
-👋 Hi there! I'm a passionate and versatile full stack developer with a comprehensive skill set that spans the entire web development spectrum. From crafting pixel-perfect HTML and CSS designs to building dynamic and interactive user interfaces using React and its ecosystem, I thrive in creating seamless online experiences.<br><br>Equipped with a deep understanding of front-end technologies like JavaScript, Bootstrap, and Redux Toolkit, I bring ideas to life with responsive layouts and engaging UI elements. On the back end, I wield the power of Node.js and Express to develop robust APIs, and I'm equally at home with databases such as MySQL and MongoDB for efficient data management.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/codewithdeepak.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithdeepak.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithdeepak-in) 
