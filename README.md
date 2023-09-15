@@ -1,6 +1,6 @@
 
 
-![Looping GIF](http://deepak.host20.uk/tif.gif)
+![Looping GIF](http://deepak.host20.uk/coder.png)
 
 
 <h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
