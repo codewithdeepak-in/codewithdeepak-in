@@ -4,8 +4,10 @@
 
 
 
-<h1 align="left">Hi 👋, I'm Deepak Chaudhary, Crafting Digital Magic ✨✨</h1>
-<h3 align="left">A passionate Full Stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Deepak Chaudhary</h1>
+<br />
+
+<h4 align="left">A passionate Full Stack developer from India , Crafting Digital Magic ✨✨</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
