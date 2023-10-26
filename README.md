@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Deepak Chaudhary</h1>
+<h3 align="left">A passionate Full Stack developer from India</h3>
 <hr />
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
