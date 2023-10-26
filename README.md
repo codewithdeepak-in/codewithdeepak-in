@@ -1,6 +1,7 @@
 
 
-((https://media.licdn.com/dms/image/D4D16AQGzVtkkSFxl7Q/profile-displaybackgroundimage-shrink_350_1400/0/1694867718786?e=1703721600&v=beta&t=pU-C7VXOza5yJe2Av-Y_Hrk4VtnTjT2J1a3rZ-XbECw)))
+![LinkedIn Image](https://media.licdn.com/dms/image/D4D16AQGzVtkkSFxl7Q/profile-displaybackgroundimage-shrink_350_1400/0/1694867718786?e=1703721600&v=beta&t=pU-C7VXOza5yJe2Av-Y_Hrk4VtnTjT2J1a3rZ-XbECw)
+
 
 
 <h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
