@@ -49,7 +49,6 @@
         console.log("Cup filled! Time to code with coffee.!");
       }  
     };
-
     if (cup.isEmpty) {
       cup.fill();
       // Start coding here...
