@@ -1,6 +1,6 @@
 
 
-![LinkedIn Image](https://media.licdn.com/dms/image/D4D16AQGzVtkkSFxl7Q/profile-displaybackgroundimage-shrink_375_1400/0/1694867721748?e=1710979200&v=beta&t=8BNzI75CkDXRBGTRZwxqTW_fbfHJcUhfbR4EXPl1IEg)
+![LinkedIn Image](https://media.licdn.com/dms/image/D4D16AQGzVtkkSFxl7Q/profile-displaybackgroundimage-shrink_350_1400/0/1694867721748?e=1710979200&v=beta&t=8BNzI75CkDXRBGTRZwxqTW_fbfHJcUhfbR4EXPl1IEg)
 
 
 
@@ -10,7 +10,7 @@
 <h4 align="left">A passionate Full Stack developer from India , Crafting Digital Magic ✨✨</h4>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   <br />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
