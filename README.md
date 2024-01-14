@@ -41,7 +41,7 @@
 
 </p>
 
-<code>
+
     const cup = {
       isEmpty: true,
       fill: function() {
@@ -49,16 +49,7 @@
         console.log("Cup filled! Time to code with coffee.!");
       }  
     };
-</code>
-<code>
-    if (cup.isEmpty) {
-      cup.fill();
-      // Start coding here...
-      console.log("Let's write some awesome code!");
-    } else {
-      // Cup is already filled, no need to refill.
-      console.log("Cup is already filled! Don't waste your time let's together dive into coding!");
-    }
-</code>
+
+
 
 
