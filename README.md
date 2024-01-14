@@ -42,13 +42,22 @@
 </p>
 
 
-    const cup = {
+     const cup = {
       isEmpty: true,
       fill: function() {
         this.isEmpty = false;
         console.log("Cup filled! Time to code with coffee.!");
       }  
     };
+
+    if (cup.isEmpty) {
+      cup.fill();
+      // Start coding here...
+      console.log("Let's write some awesome code!");
+    } else {
+      // Cup is already filled, no need to refill.
+      console.log("Cup is already filled! Don't waste your time let's together dive into coding!");
+    }
 
 
 
