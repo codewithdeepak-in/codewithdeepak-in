@@ -1,5 +1,14 @@
-<p style="text-align: right;"> [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/your_facebook_username) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your_linkedin_username) [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/your_instagram_username) </p>
-
+<p align="right">
+    <a href="https://www.facebook.com/your_facebook_username">
+        <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
+    </a>
+    <a href="https://www.linkedin.com/in/your_linkedin_username">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/your_instagram_username">
+        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+    </a>
+</p>
 
 Hye👋 I am <b>Deepak Chaudhary</b>. I am passionate <b>MERN stack maestro</b>, weaving digital dreams into reality. With <b>JavaScript</b> as my paintbrush, I sculpt dynamic web experiences that captivate and inspire. Fueled by curiosity and a dash of caffeine, I thrive on challenges, constantly pushing boundaries and turning code into magic. Join me on this journey of innovation and endless possibilities in the ever-evolving world of web development.
 
