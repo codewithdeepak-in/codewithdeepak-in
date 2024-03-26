@@ -18,4 +18,4 @@ Currently crafting digital solutions at <b><a href="https://snva.com">SNVA Trave
 
 🌟 I'm committed to continuous learning and innovation, constantly seeking new challenges to grow and expand my expertise.
 
-🚀 Let's <b><a href="https://codewithdeepak.in">connect</a></b> and collaborate on exciting projects to shape the future of technology together!
+🚀 Let's <b><a href="https://me.codewithdeepak.in">connect</a></b> and collaborate on exciting projects to shape the future of technology together!
