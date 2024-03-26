@@ -1,6 +1,9 @@
+<p align="left">  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/codewithdeepak.in) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4755F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithdeepak.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithdeepak-in) 
+</p>
 
-
-![LinkedIn Image](https://media.licdn.com/dms/image/D4D16AQGzVtkkSFxl7Q/profile-displaybackgroundimage-shrink_350_1400/0/1694867721748?e=1710979200&v=beta&t=8BNzI75CkDXRBGTRZwxqTW_fbfHJcUhfbR4EXPl1IEg)
 
 
 
@@ -33,32 +36,4 @@
 
 <hr />
 <h3 align="left">🌐 Socials</h3>
-<p align="left">  
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/codewithdeepak.in) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4755F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithdeepak.in) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithdeepak-in) 
-
-</p>
-
-
-     const cup = {
-      isEmpty: true,
-      fill: function() {
-        this.isEmpty = false;
-        console.log("Cup filled! Time to code with coffee.!");
-      }  
-    };
-
-    if (cup.isEmpty) {
-      cup.fill();
-      // Start coding here...
-      console.log("Let's write some awesome code!");
-    } else {
-      // Cup is already filled, no need to refill.
-      console.log("Cup is already filled! Don't waste your time let's together dive into coding!");
-    }
-
-
-
 
